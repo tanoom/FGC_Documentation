@@ -10,6 +10,9 @@ Welcome to FGC Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+You are Right
+------------
+
 
 
 Indices and tables

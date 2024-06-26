@@ -11,7 +11,7 @@ Welcome to FGC Documentation's documentation!
    :caption: Contents:
 
 You are Right
-------------
+-------------
 
 
 
